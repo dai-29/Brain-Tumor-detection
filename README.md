@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection
+# Brain Tumor Detection
 
 ## Introduction
 This project is an end-to-end solution for detecting brain tumors from MRI images. Developed with a deep learning model using PyTorch, the system is deployed as a Flask web application. Users can upload MRI images through the interface, and the trained model will analyze and classify them, predicting if a tumor is present. The goal is to create a user-friendly tool for medical professionals to assist in quick, preliminary diagnostics.
